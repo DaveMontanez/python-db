@@ -35,7 +35,7 @@ class FormTwo(QWidget):
         self.next_btn.clicked.connect(self.on_click)
         self.last_btn.clicked.connect(self.on_click)
 
-        self.main_groupbox = QGroupBox('Server and Character Status')
+        self.main_groupbox = QGroupBox('Server and Character Status            (North America)')
         self.button_box = QGroupBox()
 
         self.init_ui()
