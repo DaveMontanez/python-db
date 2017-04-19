@@ -1,5 +1,6 @@
 import pymysql
-from PyQt5.QtWidgets import QPushButton, QWidget, QVBoxLayout, QGridLayout, QLabel, QLineEdit, QGroupBox
+from PyQt5.QtWidgets import QPushButton, QWidget, QVBoxLayout, QGridLayout, \
+    QLabel, QLineEdit, QGroupBox
 
 
 class FormThree(QWidget):

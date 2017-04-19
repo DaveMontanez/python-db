@@ -1,6 +1,6 @@
 import sys
-from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, QWidget, \
-    QAction, QTabWidget, QVBoxLayout, qApp
+from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, \
+    QWidget, QAction, QTabWidget, QVBoxLayout, qApp
 from PyQt5 import QtGui, QtCore
 from PyQt5.QtGui import QIcon
 from FormOneTab import FormOne
