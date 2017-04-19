@@ -1,10 +1,6 @@
-import sys
 import pymysql
-from PyQt5.QtWidgets import QPushButton, QWidget, QAction, QVBoxLayout, \
+from PyQt5.QtWidgets import QPushButton, QWidget, QVBoxLayout, \
     QHBoxLayout, QGridLayout, QLabel, QLineEdit, QGroupBox
-from PyQt5 import QtGui
-from PyQt5.QtGui import QIcon
-from PyQt5.QtCore import pyqtSlot
 
 
 class FormOne(QWidget):
